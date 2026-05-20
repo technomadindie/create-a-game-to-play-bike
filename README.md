@@ -4,6 +4,8 @@ A mouse-controlled top-down bike traffic game built with plain HTML, CSS, and Ja
 
 ## Play
 
+Live game: https://technomadindie.github.io/create-a-game-to-play-bike/
+
 Open `index.html` in a browser.
 
 ## Controls
